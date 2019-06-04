@@ -10,5 +10,6 @@ package test;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("git第一次测试......邹峰");
+        System.out.println("git第2次测试......邹峰");
     }
 }
