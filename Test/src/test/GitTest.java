@@ -12,6 +12,6 @@ public class GitTest {
         System.out.println("git第一次测试......邹峰");
         System.out.println("git第2次测试......邹峰");
         System.out.println("git第3次测试......邹峰");
-        System.out.println("aweawaeaw强制推送");
+        System.out.println("aweawaeaw强制123推送");
     }
 }
